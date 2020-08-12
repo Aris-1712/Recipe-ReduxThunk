@@ -1,0 +1,15 @@
+.container1{
+width: 48%;
+}
+.container2{
+    width:48%
+}
+
+@media only screen and (max-width: 800px) {
+    .container1 {
+      width: 100%;;
+    }
+    .container2 {
+        width: 100%;;
+      }
+  }
